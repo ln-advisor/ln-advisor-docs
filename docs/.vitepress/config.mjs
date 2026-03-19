@@ -20,6 +20,7 @@ export default defineConfig({
       { text: 'Node Analysis', link: '/nodeanalysis' },
       { text: 'Private Pipeline', link: '/privatepipeline' },
       { text: 'Props', link: '/props' },
+      { text: 'Conditional Recall', link: '/conditionalrecall' },
       { text: 'Architecture', link: '/architecture' },
     ],
     search: {
