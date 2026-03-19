@@ -11,6 +11,10 @@ git clone https://github.com/ln-advisor/ln-advisor-ui
 cd ln-advisor-ui
 ```
 
+Repository:
+
+<https://github.com/ln-advisor/ln-advisor-ui>
+
 ## Requirements
 
 You need:
@@ -243,6 +247,4 @@ In development, Vite proxies this through `/__phala`.
 
 3. [Private Pipeline](/privatepipeline)
 
-4. [Props](/props)
-
-5. [Architecture](/architecture)
+4. [Architecture](/architecture)
