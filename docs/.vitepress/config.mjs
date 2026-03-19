@@ -20,6 +20,7 @@ export default defineConfig({
       { text: 'Openings', link: '/openings' },
       { text: 'Node Analysis', link: '/nodeanalysis' },
       { text: 'Private Pipeline', link: '/privatepipeline' },
+      { text: 'Conditional Recall', link: '/conditionalrecall' },
       { text: 'Architecture', link: '/architecture' },
     ],
     search: {
